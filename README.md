@@ -150,6 +150,10 @@ From git source:
     git clone https://github.com/cdsousa/SymPyBotics.git
     cd sympybotics
     python setup.py install
+    
+For installing in google Colab:
+
+    !pip install git+https://github.com/cdsousa/SymPyBotics.git
 
 License
 -------
